@@ -7,4 +7,3 @@
 * Change API information in [miningcore-ui.js](assets/js/miningcore-ui.js#L1)
 * Upload to any web server that supports HTML, JavaScript & CSS (e.g. Apache, Nginx)
 * Done.
-# geth-service
